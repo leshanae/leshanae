@@ -1,7 +1,7 @@
 ## What's up github! 👋
 
 ### My name is Alexey Demchuk
-I am a beginner data scientist, Yandex Practicum alumnus. My main interest is AI in general, CV and NLP in particular, and I methodically learn all about it.
+I am a beginner data scientist, Yandex Practicum alumnus. My main interest is AI in general, CV and NLP in particular.
 Currently I am working on some projects for my portfolio. I am ready to engage in any DS-related activity, so feel free to get in touch if you need a DS on your project!
 
 #### Previous job, which I am proud of
